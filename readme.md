@@ -34,15 +34,7 @@ This plugin displays selected posts of different types (Use Case, Case Study, We
 
 Insert the generated shortcode in any page, post, or template where you want the insights to appear.  
 
-### Example Shortcode
-
-```php
-[innovative_solutions 
-    service_name="intelligent-automation" 
-    use-case="14796,14119,14792" 
-    case-study="14781,14780,14123" 
-    webinar="14461,14459,14455" 
-    blog="14244,14240,14233"]
+---
 
 ### ScreenShots
 ![alt text](assets/image.png)
@@ -50,3 +42,11 @@ Insert the generated shortcode in any page, post, or template where you want the
 ![alt text](assets/image-2.png)
 ![alt text](assets/image-3.png)
 ![alt text](assets/image-4.png)
+
+---
+
+
+### Example Shortcode
+
+```php
+[innovative_solutions service_name="intelligent-automation" use-case="14796,14119,14792" case-study="14781,14780,14123" webinar="14461,14459,14455" blog="14244,14240,14233"]
